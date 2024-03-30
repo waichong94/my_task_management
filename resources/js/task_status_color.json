@@ -1,0 +1,10 @@
+{
+    "column": "status",
+    "valueColor": {
+        "On Hold": "bg-red-200",
+        "To Do": "bg-gray-200",
+        "In Progress": "bg-white",
+        "Staging": "bg-blue-200",
+        "Completed": "bg-green-200"
+    }
+}
